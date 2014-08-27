@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <!-- General -->
+    <string name="app_name">Calculator</string>
+    <string name="about">About</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
