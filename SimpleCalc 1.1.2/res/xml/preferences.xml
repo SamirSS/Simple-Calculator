@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+    <PreferenceCategory android:title="Settings" >
+        <Preference
+                android:title="No Settings (Yet)"
+                android:summary="This app is too simple for settings" />
+    </PreferenceCategory>
+     
+    <PreferenceCategory android:title="Version" >
+        <Preference
+                android:title="Simple Calculator"
+                android:summary="v. 1.1.2" />
+    </PreferenceCategory>
+	
+    <PreferenceCategory android:title="Social">
+    	<Preference 
+    	    android:title="Google+" >
+    		<intent android:action="android.intent.action.VIEW"
+        		android:data="https://plus.google.com/u/0/+SamirShekhawat/posts" />
+		</Preference>
+		
+		<Preference android:title="Twitter" >
+    		<intent android:action="android.intent.action.VIEW"
+        		android:data="https://twitter.com/samir_shekhawat" />
+		</Preference>
+		
+		<Preference android:title="Dribbble" >
+    		<intent android:action="android.intent.action.VIEW"
+        		android:data="https://dribbble.com/sshekhawat" />
+		</Preference>
+	</PreferenceCategory>
+	
+ 
+</PreferenceScreen>
