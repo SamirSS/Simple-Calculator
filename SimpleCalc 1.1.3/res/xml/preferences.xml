@@ -9,10 +9,20 @@
                 android:summary="This app is too simple for settings" />
     </PreferenceCategory>
      
-    <PreferenceCategory android:title="Version" >
+    <PreferenceCategory android:title="Apps" >
         <Preference
                 android:title="Simple Calculator"
-                android:summary="v. 1.1.2" />
+                android:summary="v. 1.1.3" >
+        		<intent android:action="android.intent.action.VIEW"
+        			android:data="market://details?id=com.samir.simplecalculator" />
+       	</Preference>
+       	
+        <Preference
+                android:title="Simply Donate"
+                android:summary="Buy this app to support me" >
+        		<intent android:action="android.intent.action.VIEW"
+        			android:data="market://details?id=com.samir.simplydonate" />
+       	</Preference>
     </PreferenceCategory>
 	
     <PreferenceCategory android:title="Social">
