@@ -3,19 +3,23 @@ Simple-Calculator
 
 What's New?
 ------------
-Update 1.1:
-- Floating Action Bar (FAB) button added. It's the circular button that comes to mind when you think of "material design", in case you didn't know.
-- "Swipe to Clear" feature (instead of tapping a few buttons to clear the calculator)
-- A Preferences menu to view any settings and to follow me on social media
-- Circular overflow icon, instead of the old square one (overflow button is the dropdown menu on the right side of the action bar)
+Update 1.1.5:
+-Brand new Material App Icon and Promo Graphic by Joseph Raphael
+-Dropdown menu brought back
+-A "What's New?" section added
+-High res icons finally added
 
 Previous Updates:
-1.01 - New App Icon and Color Scheme
-1.0 - First Release
+1.1.4 - Minor Tweaks
+1.1.3 - Support for 2.3, Updated App Icon, Other Small Tweaks
+1.1.2 - Re-Added FAB, New App icon, "Advanced" Page 
+1.1.1 - Removed FAB, New Action Bar Settings Icon, Spacing Fixes
+1.1.0 - FAB, Swipe to Clear Feature, and Settings Menu
+1.0.1 - New App Icon and Color Scheme
+1.0.0 - Initial Release
 
 
 About
 -----
-This is a calculator app that includes very simple functions, for now, that you would expect on a basic calculator. 
-The drop down button in the top right corner allows you to clear the calculator and quit the app. 
-In the future, I hope to bring a material design look to the app.
+This is a calculator app that includes very simple functions. I'm slowly adding new features that I think would be helpful in a calculator as well as more functionality. Right now, it only has four basic functions: add, subtract, multiply, and divide and two more advanced functions: square and multiplying by pi. If you have any feedback, feature requests, or ideas, please don't hesitate to email me or message me on Google Hangouts or Twitter.
+Also, if you would like to support me, please go here: https://play.google.com/store/apps/details?id=com.samir.simplydonate
