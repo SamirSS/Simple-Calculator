@@ -3,7 +3,7 @@ Simple-Calculator
 
 What's New?
 ------------
-Update 1.1.5:
+Update 1.1.5:<br/>
 -Brand new Material App Icon and Promo Graphic by Joseph Raphael<br/>
 -Dropdown menu brought back<br/>
 -A "What's New?" section added<br/>
